@@ -11,7 +11,7 @@
 ](https://img.shields.io/badge/stability-experimental-yellow.svg?style=flat-square)
 ](https://nodejs.org/api/documentation.html#documentation_stability_index)
  [![Code style: airbnb
-](https://img.shields.io/badge/code%20style-airbnb-blue.svg?style=flat-square)
+](https://img.shields.io/badge/code%20style-airbnb-777777.svg?style=flat-square)
 ](https://github.com/airbnb/javascript)
 
 
