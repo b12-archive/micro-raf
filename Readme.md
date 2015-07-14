@@ -27,6 +27,24 @@ Makes your app testable for just 100 B.
 
 
 
+<p align="center"><a
+  title="Graphic by the great Justin Mezzell"
+  href="http://justinmezzell.tumblr.com/post/64389350063"
+  >
+  <br/>
+  <br/>
+  <img
+    src="Readme/Hourglass.gif"
+    width="400"
+    height="300"
+  />
+  <br/>
+  <br/>
+</a></p>
+
+
+
+
 Installation
 ------------
 
