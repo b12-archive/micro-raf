@@ -22,6 +22,8 @@ micro-raf
 
 **A tiny ponyfill for requestAnimationFrame.**
 
+Makes your app testable for just 100 B.
+
 
 
 
