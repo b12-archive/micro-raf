@@ -1,0 +1,34 @@
+{ "name": "…"
+, "version": "0.0.0-work-in-progress"
+, "description": "…"
+, "dependencies": {}
+, "scripts":
+  { "coveralls": "npm run coverage && cat ./coverage/lcov.info | coveralls"
+  , "coverage": "istanbul cover test.js"
+  , "develop": "nodangel --ignore node_modules --ignore coverage --exec 'npm run --silent test:lite'"
+  , "diffy-package": "format-json package.json > .temp; mve .temp package.json"
+  , "test": "jshint . && npm run test:lite"
+  , "test:lite": "node test.js | tap-spec"
+  , "view-coverage": "echo 'Generating coverage reports...'; npm run coverage >/dev/null && echo '...done.' && xdg-open ./coverage/lcov-report/index.html >/dev/null"
+  , "_bootstrap": "npm install --save-dev --save-exact coveralls format-json istanbul jshint nodangel tap-spec@2 tape-catch mve && npm install json && json --in-place -f package.json -e 'delete this.scripts._bootstrap' && npm run diffy-package && echo 'Ready!'"
+  }
+, "devDependencies": {}
+, "files":
+  [ "**/*.js"
+  , "/Readme.md"
+  , "/License.md"
+  ]
+, "license": "MIT"
+, "keywords":
+  [ "…"
+  ]
+, "author": "Studio B12 GmbH  (http://www.studio-b12.de/)"
+, "contributors":
+  [ "Tomek Wiszniewski  <t.wiszniewski@gmail.com>"
+  ]
+, "copyright": "© 2015 Studio B12 GmbH (http://studio-b12.de)"
+, "repository":
+  { "type": "git"
+  , "url": "git@github.com:studio-b12/….git"
+  }
+}
