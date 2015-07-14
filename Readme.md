@@ -69,6 +69,14 @@ Works in node and [browsers](http://caniuse.com/#feat=requestanimationframe).
 
 
 
+Credits
+-------
+
+Inspired by [ainojs-requestframe](https://github.com/aino/ainojs-requestframe) which is no longer maintained.
+
+
+
+
 License
 -------
 
