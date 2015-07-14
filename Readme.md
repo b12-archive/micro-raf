@@ -7,8 +7,8 @@
  [![David – status of dependencies
 ](https://img.shields.io/david/studio-b12/micro-raf.svg?style=flat-square)
 ](https://david-dm.org/studio-b12/micro-raf)
- [![Stability: experimental
-](https://img.shields.io/badge/stability-experimental-yellow.svg?style=flat-square)
+ [![Stability: stable
+](https://img.shields.io/badge/stability-stable-brightgreen.svg?style=flat-square)
 ](https://nodejs.org/api/documentation.html#documentation_stability_index)
  [![Code style: airbnb
 ](https://img.shields.io/badge/code%20style-airbnb-777777.svg?style=flat-square)
@@ -21,11 +21,6 @@ micro-raf
 =========
 
 **A tiny ponyfill for requestAnimationFrame.**
-
-
-**⚠ Heads up!** This is totally a work in progress. [Thoughts and ideas][] are very welcome.
-
-[Thoughts and ideas]:  https://github.com/studio-b12/micro-raf/issues
 
 
 
