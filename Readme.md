@@ -58,7 +58,13 @@ $ npm install micro-raf
 Usage
 -----
 
-…
+```js
+const raf = require('micro-raf');
+
+raf(() => console.log('Next frame!'));
+```
+
+Works in node and [browsers](http://caniuse.com/#feat=requestanimationframe).
 
 
 
