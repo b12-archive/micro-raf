@@ -1,6 +1,6 @@
-{ "name": "…"
+{ "name": "micro-raf"
 , "version": "0.0.0-work-in-progress"
-, "description": "…"
+, "description": "A tiny ponyfill for requestAnimationFrame."
 , "dependencies": {}
 , "scripts":
   { "coveralls": "npm run coverage && cat ./coverage/lcov.info | coveralls"
@@ -29,6 +29,6 @@
 , "copyright": "© 2015 Studio B12 GmbH (http://studio-b12.de)"
 , "repository":
   { "type": "git"
-  , "url": "git@github.com:studio-b12/….git"
+  , "url": "git@github.com:studio-b12/micro-raf.git"
   }
 }
