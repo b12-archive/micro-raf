@@ -1,5 +1,5 @@
 { "name": "micro-raf"
-, "version": "0.0.0-work-in-progress"
+, "version": "1.0.0"
 , "description": "A tiny ponyfill for requestAnimationFrame."
 , "dependencies": {}
 , "scripts":
