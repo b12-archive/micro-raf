@@ -34,7 +34,7 @@ Makes your app testable for just 100 B.
   <br/>
   <br/>
   <img
-    src="Readme/Hourglass.gif"
+    src="https://cdn.rawgit.com/studio-b12/micro-raf/ea83e8f/Readme/Hourglass.gif"
     width="400"
     height="300"
   />
