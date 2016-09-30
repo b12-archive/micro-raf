@@ -20,7 +20,7 @@
 micro-raf
 =========
 
-**A tiny ponyfill for requestAnimationFrame.**
+**A tiny [ponyfill](https://ponyfill.com) for requestAnimationFrame.**
 
 Makes your app testable for just 100 B.
 
